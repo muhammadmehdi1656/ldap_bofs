@@ -1,0 +1,12 @@
+[project]
+name = "ldap-bofs"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = [
+    "cryptography>=45.0.7",
+    "dsinternals>=1.2.4",
+    "impacket>=0.11.0",
+    "pycryptodomex>=3.23.0",
+    "pyopenssl>=25.1.0",
+]
