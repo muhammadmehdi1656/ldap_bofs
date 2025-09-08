@@ -34,10 +34,6 @@ def create_empty_sd():
     return sd
 
 def main():
-    #test SID
-    # get the base SD
-
-
     if len(sys.argv) < 2:
         print("Missing target SID. Ex: S-1-5-21-991973810-2284695103-1193895442-1108")
         sys.exit()
@@ -46,6 +42,7 @@ def main():
     sd = create_empty_sd()
     sd['Dacl'].aces.append(create_allow_ace(sid))
 
-    print(sd)
+
+    print(sd.getData().hex())
 
 main()
