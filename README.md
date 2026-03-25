@@ -59,3 +59,7 @@ If you encounter issues when running ldap_bofs, try the following steps:
 For additional support or to report bugs, please reach out through the repository's issue tracker or contact the repository owner via GitHub.
 
 Thank you for using ldap_bofs! We hope you find it useful in your learning journey.
+
+## Links
+
+[![Hypercommit](https://img.shields.io/badge/Hypercommit-DB2475)](https://hypercommit.com/ldap-bofs)
